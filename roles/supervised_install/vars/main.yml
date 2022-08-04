@@ -16,5 +16,5 @@ arch:
     os_agent: "aarch64"
 
 # for geerlingguy.docker
-docker_apt_arch: arm64
+docker_apt_arch: x86_64
 docker_install_compose: false
