@@ -17,4 +17,4 @@ arch:
 
 # for geerlingguy.docker
 docker_apt_arch: x86_64
-docker_install_compose: false
+docker_install_compose: true
