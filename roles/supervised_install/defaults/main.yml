@@ -1,4 +1,4 @@
 ---
 supervised_install_ansible_requirements: true
 supervised_install_deb_timeout: 600
-machine: raspberrypi4-64
+machine: generic-x86-64
