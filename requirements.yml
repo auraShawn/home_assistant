@@ -1,2 +1,3 @@
 # from galaxy
-- src: geerlingguy.docker
+collections:
+  - name: geerlingguy.docker
